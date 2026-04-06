@@ -1,6 +1,6 @@
 # 🦷 DentaPro - Dental Appointment System
 
-A modern web application for booking dental appointments easily and efficiently.  
+A modern web application for a dental_clinc appointments easily and efficiently.  
 Built using **React + Vite + Tailwind CSS + Firebase + Netlify**.
 
 ---
