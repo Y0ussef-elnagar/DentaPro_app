@@ -61,12 +61,14 @@ Build for production:
 ```
 npm run build
 ```
+---
 ⚙️ Firebase Setup:
 
 Make sure to add your Firebase config inside:
 ```
 firebase.js / firebaseConfig.js
 ```
+---
 ## 🌐 Build & Deployment
 
 To build the project for production:
