@@ -39,7 +39,7 @@ src/
 ├── firebase/
 ├── App.jsx
 ├── main.jsx
-
+```
 ---
 
 ## 🔥 Installation & Setup
