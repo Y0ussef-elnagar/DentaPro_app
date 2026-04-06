@@ -66,10 +66,16 @@ Make sure to add your Firebase config inside:
 ```
 firebase.js / firebaseConfig.js
 ```
-🌐 Deployment:
-Build command: npm run build
-Publish directory: dist
----
+## 🌐 Build & Deployment
 
+To build the project for production:
+```bash
+npm run build
+```
+Deploy on GitHub Pages (after configuring vite.config.js base):
+```bash
+npm run deploy
+```
+---
 👨‍💻 Author:
 Developed by Youssef El-Nagar
