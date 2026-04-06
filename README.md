@@ -60,8 +60,16 @@ Build for production:
 ```
 npm run build
 ```
-##⚙️ Firebase Setup
+⚙️ Firebase Setup:
 
 Make sure to add your Firebase config inside:
-
+```
 firebase.js / firebaseConfig.js
+```
+🌐 Deployment:
+Build command: npm run build
+Publish directory: dist
+---
+
+👨‍💻 Author:
+Developed by Youssef El-Nagar
