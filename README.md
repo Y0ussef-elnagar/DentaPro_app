@@ -32,6 +32,7 @@ Built using **React + Vite + Tailwind CSS + Firebase + Netlify**.
 ---
 
 ## 📂 Project Structure
+```bash id="project_tree"
 src/
 ├── components/
 ├── pages/
