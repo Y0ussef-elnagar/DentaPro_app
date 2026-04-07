@@ -6,7 +6,7 @@ Built using **React + Vite + Tailwind CSS + Firebase + Netlify**.
 ---
 
 ## 🚀 Live Demo
-👉 https://dentaproo.netlify.app/
+👉 [View Live Demo](https://denta-pro-app.vercel.app/)
 
 ---
 
