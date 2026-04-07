@@ -25,7 +25,7 @@ Built using **React + Vite + Tailwind CSS + Firebase + Netlify**.
 <p align="center">
   <img src="screenshots/Home_section.png" width="400"/>
   <img src="screenshots/Appointment_section.png" width="400"/>
-  <img src="screenshots/Contact_section" width="400"/>
+  <img src="screenshots/Contact_section.png" width="400"/>
   <img src="screenshots/About_section.png" width="400"/>
   <img src="screenshots/Services_section.png" width="400"/>
 </p>
